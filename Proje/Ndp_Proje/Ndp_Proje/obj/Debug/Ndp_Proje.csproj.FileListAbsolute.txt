@@ -1,0 +1,23 @@
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe.config
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.GirisEkrani.resources
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.OyunEkrani.resources
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Properties.Resources.resources
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csproj.GenerateResource.Cache
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.pdb
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.exe
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.pdb
+C:\Users\orcunholta\Desktop\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csprojResolveAssemblyReference.cache
+C:\Users\orcunholta\Desktop\NDP PROJE YEDEK\ndp yedek 4 resimli structlu metotlu müzikli\NDP NEW\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe.config
+C:\Users\orcunholta\Desktop\NDP PROJE YEDEK\ndp yedek 4 resimli structlu metotlu müzikli\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.exe
+C:\Users\orcunholta\Desktop\NDP PROJE YEDEK\ndp yedek 4 resimli structlu metotlu müzikli\NDP NEW\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.pdb
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe.config
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.exe
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.pdb
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.pdb
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csprojResolveAssemblyReference.cache
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.GirisEkrani.resources
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.OyunEkrani.resources
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Properties.Resources.resources
+C:\Users\orcunholta\Desktop\Ndp Proje\Ödev 2\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csproj.GenerateResource.Cache
